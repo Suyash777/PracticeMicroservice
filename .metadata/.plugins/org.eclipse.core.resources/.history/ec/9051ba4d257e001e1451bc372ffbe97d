@@ -1,0 +1,29 @@
+package com.mybank;
+
+public class AccountResponseDto {
+	private Account account;
+	private Loan loan;
+
+	public Loan getLoan() {
+		return loan;
+	}
+
+	public void setLoan(Loan loan) {
+		this.loan = loan;
+	}
+
+	public AccountResponseDto() {
+		super();
+	}
+
+	public Account getAccount() {
+		return account;
+	}
+
+	public void setAccount(Account account) {
+		this.account = account;
+	}
+	
+	
+	
+}

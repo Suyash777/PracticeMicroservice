@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;account-service/src/main/java/com.mybank&apos;&#x0D;&#x0A;- Original project: &apos;card-service&apos;&#x0D;&#x0A;- Destination element: &apos;account-service/src/main/java/com.mybank&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     com.mybank.Card.java&#x0D;&#x0A;     com.mybank.CardResponseDto.java" description="Copy compilation units" destination="=account-service/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.mybank" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.mybank{Card.java" element2="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.mybank{CardResponseDto.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1699445164793" units="2" version="1.0"/>
+</session>
